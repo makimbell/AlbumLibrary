@@ -1,0 +1,6 @@
+C:\Users\Andy\Documents\CodeLouisville\C#\AlbumLibrary\obj\x86\Debug\AlbumLibrary.csprojAssemblyReference.cache
+C:\Users\Andy\Documents\CodeLouisville\C#\AlbumLibrary\obj\x86\Debug\AlbumLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Andy\Documents\CodeLouisville\C#\AlbumLibrary\bin\Debug\ConsoleApplication.exe
+C:\Users\Andy\Documents\CodeLouisville\C#\AlbumLibrary\bin\Debug\ConsoleApplication.pdb
+C:\Users\Andy\Documents\CodeLouisville\C#\AlbumLibrary\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\Andy\Documents\CodeLouisville\C#\AlbumLibrary\obj\x86\Debug\ConsoleApplication.pdb
